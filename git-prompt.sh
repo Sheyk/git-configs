@@ -28,7 +28,7 @@ else
 		fi
 	fi
 	PS1="$PS1"'\[\033[33m\]'       # change color to yellow
-	PS1="$PS1"' ➜  '               # prompt: ->
+	PS1="$PS1"' ➜ '               # prompt: ->
 	PS1="$PS1"'\[\033[0m\]'        # change color to gray
 fi
 
