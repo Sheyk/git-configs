@@ -1,6 +1,6 @@
 [user]
 	name = Vincent Marion-Poll
-	email = vincent.marionpoll@viseo.com
+	email = marionpoll.vincent@gml.com
 [alias]
 	cb = ! git branch | grep -v "master" | xargs git branch -D
 	mm = merge master
